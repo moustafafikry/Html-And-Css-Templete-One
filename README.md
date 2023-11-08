@@ -1,2 +1,2 @@
-# Html-And-Css-Templete-One.io
+# Html-And-Css-Templete-One
 Templete One
